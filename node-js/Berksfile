@@ -3,5 +3,6 @@ source 'https://supermarket.chef.io'
 metadata
 
 cookbook 'apt', '= 3.0.0'
+cookbook 'build-essential, '=2.2.2'
 cookbook 'nodejs', git:'https://github.com/redguide/nodejs.git'
 
